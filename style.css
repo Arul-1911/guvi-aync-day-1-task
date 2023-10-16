@@ -1,0 +1,22 @@
+.top{
+    
+    background-color: orangered;
+    height: 260px;
+   
+}
+#countdown {
+
+    height: 250px;
+    padding-top: 80px;
+    font-style: italic;
+    text-decoration: dotted;
+    text-align: center;
+   
+
+}
+
+.bottom{
+    
+    background-color: green;
+    height: 270px;
+}
